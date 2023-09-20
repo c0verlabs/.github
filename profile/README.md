@@ -1,6 +1,6 @@
 <div align=center>
   
-  <img src="https://github.com/c0verlabs/.github/blob/edd699c5a4325b2314a2e1aca5deced2734b05aa/img/c0ver-long.png" height="260" />
+  <img src="https://github.com/c0verlabs/.github/blob/edd699c5a4325b2314a2e1aca5deced2734b05aa/img/c0ver-long.png" height="200" />
    
 </div>
 
